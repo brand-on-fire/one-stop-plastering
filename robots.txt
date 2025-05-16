@@ -1,4 +1,2 @@
-User-Agent: *
-Allow: /
-
-Sitemap: https://onestopplastering.com/sitemap_index.xml
+User-agent: *
+Disallow: /
